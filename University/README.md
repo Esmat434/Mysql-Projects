@@ -59,8 +59,6 @@ The goal is to cover both theory and hands-on SQL practice.
 
 ---
 
----
-
 ## License
 This project is created for **learning and practice purposes**.  
 You are free to use and share it.
