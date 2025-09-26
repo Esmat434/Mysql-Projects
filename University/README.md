@@ -59,12 +59,6 @@ The goal is to cover both theory and hands-on SQL practice.
 
 ---
 
-## Database Design Preview
-
-Here is the database design ERD:
-
-![Database ERD](./Database_Design.png)
-
 ---
 
 ## License
